@@ -1,5 +1,8 @@
 VDR Plugin 'zappilot' Revision History
 --------------------------------------
+2018-06-07:Version 0.0.6
+  - porting to vdr-2.3.1
+  - added hu translation
 2013-03-17:Version 0.0.5
   - skip changing channel when pressing OK button on the same channel
   - added alternative key layout for fast browse mode 
