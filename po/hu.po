@@ -15,6 +15,12 @@ msgstr ""
 "X-Poedit-KeywordsList: tr\n"
 "X-Poedit-SearchPath-0: .\n"
 
+msgid "A zapping co-pilot"
+msgstr "Gyors csatorna váltó"
+
+msgid "ZapPilot"
+msgstr ""
+
 #: zappilotosd.c:125
 msgid "Switch timer added!"
 msgstr "Kapcsoló időzítő adva!"
